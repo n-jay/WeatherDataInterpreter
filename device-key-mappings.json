@@ -1,0 +1,10 @@
+{
+  "tokenMappings" : {
+    "station1" : {
+      "accessToken" : "ade0fe6f-d953-35fc-b2c5-b2faf5b2e479",
+      "refreshToken" : "d8b0f34c-af43-38f4-a762-e33506b42949",
+      "clientID" : "VBtO7maqAyYigzfKEAzFa72_x6ka",
+      "clientSecre" : "tdAXPaj4x2RfkVfij4wHXoxl4Ska"
+    }
+  }
+}
